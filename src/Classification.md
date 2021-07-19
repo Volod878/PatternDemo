@@ -8,7 +8,7 @@
 + Абстрактная фабрика ([Abstract Factory](/Generative))
 + Строитель ([Builder](/Generative))
 + Прототип ([Prototype](/Generative))
-+ Одиночка ([Singleton](/Generative/Singleton/SingletonDemo.java))
++ Одиночка ([Singleton](/src/Generative/Singleton/SingletonDemo.java))
 ### Структурные (Structural) паттерны 
 Показывают различные способы построения связей между объектами.
 Эти паттерны отвечают за построение удобных в поддержке иерархий классов.
