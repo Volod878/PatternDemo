@@ -6,7 +6,7 @@
 #### Самые популярные из них
 + Фабричный метод ([Factory Method](Generative))
 + Абстрактная фабрика ([Abstract Factory](Generative))
-+ Строитель ([Builder](Generative))
++ Строитель ([Builder](Generative/Builder/description.md))
 + Прототип ([Prototype](Generative))
 + Одиночка ([Singleton](Generative/Singleton/description.md))
 ### Структурные (Structural) паттерны 
