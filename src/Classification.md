@@ -17,7 +17,7 @@
 + Мост ([Bridge](Structural))
 + Компоновщик ([Composite](Structural))
 + Декоратор ([Decorator](Structural))
-+ Фасад ([Facade](Structural))
++ Фасад ([Facade](Structural/Facade/description.md))
 + Легковес ([Flyweight](Structural))
 + Заместитель ([Proxy](Structural))
 ### Поведенческие (Behavioral) паттерны 
